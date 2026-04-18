@@ -102,8 +102,8 @@ Solution: Threshold Tuning
 
 &nbsp;Threshold&nbsp;|&nbsp;Recall&nbsp;|&nbsp;Precision<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;59%&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;86%<br>
-&nbsp;&nbsp;&nbsp;0.3&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;69%&nbsp;&nbsp;|&nbsp;&nbsp;70%<br>
-&nbsp;&nbsp;&nbsp;0.2&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;75%&nbsp;&nbsp;|&nbsp;&nbsp;58%<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;69%&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;70%<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;75%&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;58%<br>
 
 Insight:
 
