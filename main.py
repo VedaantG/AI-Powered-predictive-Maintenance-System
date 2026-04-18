@@ -7,7 +7,7 @@ from src.evaluate import evaluate_model
 from src.visualize import plot_confusion_matrix, plot_feature_importance
 
 # Load dataset
-df = pd.read_csv("MaintenanceSystem/AI-Powered-predictive-Maintenance-System/data/ai4i2020.csv")
+df = pd.read_csv("data/ai4i2020.csv")
 
 print("🔹 Raw Data Shape:", df.shape)
 
