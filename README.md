@@ -161,15 +161,15 @@ python main.py
 
 📁 Project Structure
 
-AI-Predictive-Maintenance-IoT/
-│
-├── data/
-├── src/
-├── models/
-├── images/
-├── outputs/
-├── README.md
-├── requirements.txt
+AI-Predictive-Maintenance-IoT/<br>
+│<br>
+├── data/<br>
+├── src/<br>
+├── models/<br>
+├── images/<br>
+├── outputs/<br>
+├── README.md<br>
+├── requirements.txt<br>
 └── main.py
 
 ---
