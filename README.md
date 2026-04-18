@@ -18,7 +18,7 @@ Traditional maintenance strategies are either:
 
 This project solves the problem by:
 
-«Predicting machine failures using sensor data and machine learning.»
+Predicting machine failures using sensor data and machine learning.
 
 ---
 
@@ -77,16 +77,16 @@ Sensor Data → Preprocessing → Feature Engineering → Model Training → Pre
 
 🏗️ System Architecture
 
-[IoT Sensor Data]
-        ↓
-[Data Preprocessing]
-        ↓
-[Feature Selection]
-        ↓
-[ML Model (Random Forest)]
-        ↓
-[Failure Prediction]
-        ↓
+[IoT Sensor Data]<br>
+        ↓<br>
+[Data Preprocessing]<br>
+        ↓<br>
+[Feature Selection]<br>
+        ↓<br>
+[ML Model (Random Forest)]<br>
+        ↓<br>
+[Failure Prediction]<br>
+        ↓<br>
 [Alert System + Visualization]
 
 ---
@@ -100,10 +100,10 @@ Initial model showed:
 
 Solution: Threshold Tuning
 
-Threshold| Recall| Precision
-0.5| 59%| 86%
-0.3| 69%| 70%
-0.2| 75%| 58%
+Threshold| Recall| Precision<br>
+    0.5  |   59% | 86%<br>
+    0.3  |   69% | 70%<br>
+    0.2  |   75% | 58%<br>
 
 Insight:
 
