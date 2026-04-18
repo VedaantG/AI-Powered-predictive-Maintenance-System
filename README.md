@@ -201,8 +201,9 @@ Feel free to fork and improve the project.
 
 📌 Author
 
-Vedaant Gaonkar
-[My Profile](https://github.com/VedaantG)
+Vedaant Gaonkar<br>
+[Github](https://github.com/VedaantG)<br>
+[LinkedIn](https://www.linkedin.com/in/vedaant-gaonkar-452618352)
 
 ---
 
