@@ -78,15 +78,15 @@ Sensor Data → Preprocessing → Feature Engineering → Model Training → Pre
 🏗️ System Architecture
 
 [IoT Sensor Data]<br>
-        ↓<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓<br>
 [Data Preprocessing]<br>
-        ↓<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓<br>
 [Feature Selection]<br>
-        ↓<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓<br>
 [ML Model (Random Forest)]<br>
-        ↓<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓<br>
 [Failure Prediction]<br>
-        ↓<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓<br>
 [Alert System + Visualization]
 
 ---
@@ -101,9 +101,9 @@ Initial model showed:
 Solution: Threshold Tuning
 
 Threshold| Recall| Precision<br>
-    0.5  |   59% | 86%<br>
-    0.3  |   69% | 70%<br>
-    0.2  |   75% | 58%<br>
+&nbsp;0.5 &nbsp;|&nbsp;59%&nbsp;|&nbsp;86%<br>
+&nbsp;0.3 &nbsp;|&nbsp;69%&nbsp;|&nbsp;70%<br>
+&nbsp;0.2 &nbsp;|&nbsp;75%&nbsp;|&nbsp;58%<br>
 
 Insight:
 
