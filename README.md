@@ -142,7 +142,7 @@ Key Outcome:
 
 🚀 Installation & Setup
 
-git clone https://github.com/your-username/AI-Predictive-Maintenance-IoT.git
+git clone https://github.com/VedaantG/AI-Predictive-Maintenance-IoT.git
 cd AI-Predictive-Maintenance-IoT
 
 python -m venv venv
